@@ -1,2 +1,2 @@
 # hello-world
-Première créatuib d'un dépôt
+Première création d'un dépôt
